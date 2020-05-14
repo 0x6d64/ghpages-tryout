@@ -2,8 +2,8 @@ site_name: 0x6d64.github.io
 site_description: 'A mkdocs test'
 site_author: 'Martin Demling'
 docs_dir: docs/
-repo_name: '0x6d64/0x6d64.github.io'
-repo_url: 'https://github.com/0x6d64/0x6d64.github.io'
+repo_name: '0x6d64/ghpages-tryout'
+repo_url: 'https://github.com/0x6d64/ghpages-tryout'
 
 nav:
     - Home: index.md
