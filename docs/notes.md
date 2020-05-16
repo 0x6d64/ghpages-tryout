@@ -1,6 +1,6 @@
-# Scope / learnings
+# general notes
 
-## What is currently working?
+## what is currently working?
 
 * use mkdocs to generate static HTML pages
 * use requirements.txt to enable extensions
