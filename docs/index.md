@@ -2,4 +2,4 @@
 Hello world!
 
 Let's build a really quick, static website. 
-See [motivation](motivation.md) for details.
+See [motivation](motivation.md) to anwer why and [scope](scope.md) to answer what.
