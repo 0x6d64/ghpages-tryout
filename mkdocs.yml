@@ -11,4 +11,4 @@ theme:
   name: 'material'
 
 markdown_extensions:
-  - del_ins
+  - pymdownx.tilde

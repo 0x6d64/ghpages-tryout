@@ -1,1 +1,1 @@
-mdx_del_int
+pymdown-extensions
