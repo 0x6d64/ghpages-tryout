@@ -1,2 +1,2 @@
 # Motivation
-Learn more about website deployment.
+Learn more about static web generation and website deployment.
